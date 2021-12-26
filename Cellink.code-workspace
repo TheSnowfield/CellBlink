@@ -1,0 +1,50 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            ".eideignore": "ignore",
+            "stm8s.h": "c",
+            "stm8s_gpio.h": "c",
+            "stm8s_clk.h": "c",
+            "types.h": "c",
+            "u8g2.h": "c",
+            "u8x8.h": "c",
+            "stddef.h": "c",
+            "stdarg.h": "c",
+            "limits.h": "c",
+            "stm8s_i2c.h": "c",
+            "stdint.h": "c",
+            "main.h": "c",
+            "timer.h": "c",
+            "display.h": "c",
+            "boot.h": "c",
+            "game.h": "c",
+            "common.h": "c",
+            "string.h": "c"
+        },
+        "C_Cpp.default.intelliSenseMode": "gcc-arm",
+        "files.autoGuessEncoding": true,
+        "C_Cpp.default.cppStandard": "c++14",
+        "C_Cpp.default.cStandard": "c99",
+        "[yaml]": {
+            "editor.insertSpaces": true,
+            "editor.tabSize": 4,
+            "editor.autoIndent": "advanced"
+        }
+    },
+    "extensions": {
+        "recommendations": [
+            "cl.eide",
+            "keroc.hex-fmt",
+            "xiaoyongdong.srecord",
+            "hars.cppsnippets",
+            "zixuanwang.linkerscript",
+            "redhat.vscode-yaml",
+            "cl.stm8-debug"
+        ]
+    }
+}

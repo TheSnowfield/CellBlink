@@ -1,0 +1,18 @@
+{
+    "version": 3,
+    "beforeBuildTasks": [],
+    "afterBuildTasks": [],
+    "global": {
+        "device": "stm8",
+        "optimize-type": "speed",
+        "use-non-free": false
+    },
+    "c/cpp-compiler": {
+        "language-c": "c99"
+    },
+    "asm-compiler": {},
+    "linker": {
+        "$mainFileName": "main",
+        "output-format": "hex"
+    }
+}
