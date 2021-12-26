@@ -1,4 +1,4 @@
-## Cellink
+## CellBlink
 The Game Of Life emulator on `stm8s003f3` chip.
 ![GIF](img/cells.gif)
 
